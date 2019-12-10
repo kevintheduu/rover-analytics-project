@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+.DS_Store
+
+#also the database, its too big
+db1.sqlite3
+
 # Distribution / packaging
 .Python
 build/
